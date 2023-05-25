@@ -1,2 +1,2 @@
 Hola Jorge
-como estas, intento de pull request
+como estas Jorge, intento de pull request.
